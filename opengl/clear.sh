@@ -1,0 +1,1 @@
+rm line parabola exponential a.out
